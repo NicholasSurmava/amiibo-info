@@ -1,4 +1,4 @@
-# SSR + JS Component site
+# Amiibo Info App
 
 Showing a web site that is server-side rendered plus has a few js components.
 
